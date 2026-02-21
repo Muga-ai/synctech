@@ -142,7 +142,7 @@ export default function ImpactPage() {
             href="/contact"
             className="px-8 py-4 bg-emerald-500 hover:bg-emerald-600 transition rounded-xl glow-emerald font-medium"
           >
-            Apply for Partnership
+            Leave an Impact
           </Link>
 
           <Link
