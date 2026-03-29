@@ -87,9 +87,9 @@ export default function Home() {
                 link: 'https://valora-mauve.vercel.app'
               },
               {
-                title: 'Housify',
+                title: 'Tunzaprop',
                 desc: 'Digital property & tenant management',
-                link: 'https://housify-chi.vercel.app'
+                link: 'https://tunzaprop.co.ke'
               },
               {
                 title: 'FundiPlus',
